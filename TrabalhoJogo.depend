@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1662167700 source:c:\users\artur\documents\programa«√o\c++\trabalhojogo\main.cpp
+	<iostream>
+	<stdlib.h>
+	<string>
+	<windows.h>
+	<fstream>
+	<locale.h>
+	<sstream>
+	<string>
+

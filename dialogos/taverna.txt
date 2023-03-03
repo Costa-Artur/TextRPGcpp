@@ -1,0 +1,10 @@
+A sua jornada começa dentro da taverna O Cervo Andarilho, no condado de Icebridge, você está lá para beber umas no final de uma tarde cansativa, coisa que você sempre faz para descansar e sair um pouco da vida corriqueira de um aventureiro, a taverna está agitada como sempre, com pessoas discutindo e brigando, outros estão apostando em um jogo de cartas, mas você vê que a atendente, Teela, que você já conhece de visitas passadas ao local vai até você e coloca 15 moedas de ouro na mesa. 
+ 
+Teela: “Escutei barulhos vindo da floresta próxima daqui quando fui buscar a cevada, você pode checar se tem alguma coisa lá para mim? A bebida fica por conta da casa, não se preocupe em pagar” 
+
+ 
+ 
+
+O que você faz? 
+ 
+[1] - Sair da taverna em direção a cidade              [2] - Bebe mais um copo de cerveja;

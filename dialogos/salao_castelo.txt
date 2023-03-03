@@ -1,0 +1,7 @@
+ 
+
+Entrando no castelo, voce se depara com um grande salao com varias tochas presas nas paredes e algumas portas, na sua frente há uma escada que leva ao segundo andar da construcao, porem sem sinal de alguem por perto. 
+
+ 
+
+[1] - verificar as portas                                                                  [2] - Subir as escadas 
